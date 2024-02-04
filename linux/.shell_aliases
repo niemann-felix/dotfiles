@@ -1,0 +1,5 @@
+alias cat='batcat'
+alias wd='cd ~/Documents/github/'
+alias wdupdate='~/wdupdate.sh'
+alias mnta='sudo mount -a'
+alias umnta='sudo umount ~/Documents/newlocalnas/ && sudo umount ~/Documents/share/'
